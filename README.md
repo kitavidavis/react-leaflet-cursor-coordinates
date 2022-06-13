@@ -12,7 +12,7 @@ import CursorCoordinates from 'react-leaflet-cursor-coordinates'
 <MapContainer
   {/*more code here */}
   > 
-  CursorCoordinates /> 
+  <CursorCoordinates /> 
 </MapContainer>
 ```
 
